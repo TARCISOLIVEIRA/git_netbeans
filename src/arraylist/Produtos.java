@@ -12,6 +12,7 @@ public class Produtos {
     
     private String nome;
     private int quantidade;
+    private int id;
 
     public Produtos(String nome, int quantidade) {
         this.nome = nome;
